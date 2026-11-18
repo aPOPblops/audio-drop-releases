@@ -7,7 +7,8 @@ specific version by hand, for example if an update causes a problem.
 
 | Version | Date | macOS | Windows | Linux |
 |---|---|---|---|---|
-| 1.0.0 (latest) | 2026-11-17 | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.0/AudioDrop-macos-universal.zip) | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.0/AudioDrop-windows-x86_64.zip) | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.0/AudioDrop-linux-x86_64.tar.gz) |
+| 1.0.1 (latest) | 2026-11-17 | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.1/AudioDrop-macos-universal.zip) | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.1/AudioDrop-windows-x86_64.zip) | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.1/AudioDrop-linux-x86_64.tar.gz) |
+| 1.0.0 | 2026-11-17 | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.0/AudioDrop-macos-universal.zip) | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.0/AudioDrop-windows-x86_64.zip) | [download](https://github.com/aPOPblops/audio-drop-releases/releases/download/v1.0.0/AudioDrop-linux-x86_64.tar.gz) |
 
 How to go back to an earlier version:
 
